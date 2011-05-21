@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Login";
+}
+@if (ViewData["Message"] != null)
+{ 
+    <div style="border: solid 1px red; margin-bottom: 15px;">
+        @ViewData["Message"]
+    </div>
+}
+<form action="Authenticate" method="post">
+<input type="hidden" id="openid_identifier" name="openid_identifier" size="40" value="https://www.google.com/accounts/o8/id"/>
+<div><a class="framed" href="javascript:document.forms[0].submit()">Login with Google</a></div>
+</form>

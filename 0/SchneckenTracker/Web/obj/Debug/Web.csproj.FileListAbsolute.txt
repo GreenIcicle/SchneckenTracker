@@ -1,0 +1,12 @@
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\bin\SchneckenTracker.Web.dll
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\bin\SchneckenTracker.Web.pdb
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\bin\MongoDB.Bson.dll
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\bin\MongoDB.Driver.dll
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\obj\Debug\ResolveAssemblyReference.cache
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\obj\Debug\SchneckenTracker.Web.dll
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\obj\Debug\SchneckenTracker.Web.pdb
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\bin\DotNetOpenAuth.dll
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\bin\log4net.dll
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\bin\DotNetOpenAuth.pdb
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\bin\DotNetOpenAuth.xml
+C:\scm\Camp2011\SchneckenTracker\0\SchneckenTracker\Web\bin\log4net.xml

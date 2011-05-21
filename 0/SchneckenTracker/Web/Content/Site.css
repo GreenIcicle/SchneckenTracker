@@ -1,0 +1,116 @@
+body
+{
+    font-size: 1.1em;
+    font-family: monospace;
+    color: #00FF00;
+    background-color: black;
+}
+
+header,
+footer,
+nav,
+section {
+    display: block;
+}
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+
+fieldset 
+{
+    border:1px solid #ddd;
+    padding:0 1.4em 1.4em 1.4em;
+    margin:0 0 1.5em 0;
+}
+
+legend 
+{
+    font-size:1.2em;
+    font-weight: bold;
+}
+
+textarea 
+{
+    min-height: 75px;
+}
+
+.editor-label 
+{
+    margin: 1em 0 0 0;
+}
+
+.editor-field 
+{
+    margin:0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+
+/* Logos
+-----------------------------------------------------------*/
+.logo-big
+{
+    font-size: 5em;
+    font-weight:bold;
+    text-align: center; 
+    color:silver;
+}
+
+.active
+{
+    color:orange;
+}
+
+.framed
+{
+    display: block;
+    background-color: #005D00;
+    border: 1px solid #00E800;
+    padding: 5px;
+    padding-top:15px;
+    padding-bottom:15px;
+    margin: 5px;
+    margin-bottom:20px;
+    text-align:center;
+}
+
+a, a:visited, a:active, a:hover
+{
+    color: #00FF00;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.status
+{
+    text-align:center;
+}
+
